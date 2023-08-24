@@ -1,2 +1,2 @@
-# OT_EDI_WP
-A WordPress theme for OpenText's EDI microsite
+# OpenText_Micosites_WP_Theme
+A WordPress theme for OpenText's microsites
